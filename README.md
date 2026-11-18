@@ -14,7 +14,7 @@ I spent 18 years in construction before founding **Hoor Collection**, a workshop
 
 ## What I build
 - **[Daftar-e Ostad](https://github.com/pooryakamrani-sketch/Daftar-ostand)**: an offline-first, Persian/RTL mobile web app for private teachers (sessions, students, tuition, admin panel with QR sign-up). PHP, SQLite/JSON, covered by PHP and jsdom test suites. **[Live demo](https://demo.hoorartco.ir)** (sample data, stays in your browser).
-- **Business automation** for my own workshop: a sales assistant and order bot (built with n8n), reports and pricing tools.
+- **[Hoor Collection sales assistant](https://github.com/pooryakamrani-sketch/hoor-sales-assistant)**: an online shop ([shop.hoorcollection.ir](https://shop.hoorcollection.ir)) plus an admin panel that automates commission calculation, stock in/out, production planning and Bale-messenger updates to the sales network.
 - **Accounting system for Qard al-Hasan (interest-free loan) funds**: account reconciliation and member statements, following each fund's specific rules.
 
 ## Beyond code
@@ -50,7 +50,7 @@ Remote freelance and project-based work: web apps, internal tools, workflow auto
 
 ## چه چیزهایی می‌سازم
 - **[دفتر استاد](https://github.com/pooryakamrani-sketch/Daftar-ostand):** برنامه‌ی وب موبایلی فارسی‌محور و آفلاین‌محور برای معلمان خصوصی (جلسه‌ها، شاگردان، شهریه، پنل مدیر با ثبت‌نام از طریق QR). با PHP و SQLite/JSON، همراه با تست‌های PHP و jsdom. **[نسخهٔ نمایشی زنده](https://demo.hoorartco.ir)** (داده‌های نمونه، فقط روی مرورگر شما می‌ماند).
-- **اتوماسیون کسب‌وکار** برای کارگاه خودم: دستیار فروش و ربات سفارش (با n8n)، گزارش‌ها و ابزارهای قیمت‌گذاری.
+- **[دستیار فروش هور](https://github.com/pooryakamrani-sketch/hoor-sales-assistant):** فروشگاه اینترنتی ([shop.hoorcollection.ir](https://shop.hoorcollection.ir)) و پنل مدیریتی که محاسبهٔ پورسانت، ورود و خروج انبار، برنامهٔ تولید و اطلاع‌رسانی به شبکهٔ فروش در پیام‌رسان بله را خودکار می‌کند.
 - **سیستم حسابداری صندوق‌های قرض‌الحسنه:** تطبیق حساب‌ها و صورت‌حساب اعضا، مطابق قوانین خاص هر صندوق.
 
 ## فراتر از کد
