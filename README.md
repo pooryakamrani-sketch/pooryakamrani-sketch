@@ -13,7 +13,7 @@ I spent 18 years in construction before founding **Hoor Collection**, a workshop
 🛍️ Hoor Collection shop: [shop.hoorcollection.ir](https://shop.hoorcollection.ir)
 
 ## What I build
-- **[Daftar-e Ostad](https://github.com/pooryakamrani-sketch/Daftar-ostand)**: an offline-first, Persian/RTL mobile web app for private teachers (sessions, students, tuition, admin panel with QR sign-up). PHP, SQLite/JSON, covered by PHP and jsdom test suites.
+- **[Daftar-e Ostad](https://github.com/pooryakamrani-sketch/Daftar-ostand)**: an offline-first, Persian/RTL mobile web app for private teachers (sessions, students, tuition, admin panel with QR sign-up). PHP, SQLite/JSON, covered by PHP and jsdom test suites. **[Live demo](https://demo.hoorartco.ir)** (sample data, stays in your browser).
 - **Business automation** for my own workshop: a sales assistant and order bot (built with n8n), reports and pricing tools.
 - **Accounting system for Qard al-Hasan (interest-free loan) funds**: account reconciliation and member statements, following each fund's specific rules.
 
@@ -49,7 +49,7 @@ Remote freelance and project-based work: web apps, internal tools, workflow auto
 🛍️ فروشگاه هور کالکشن: [shop.hoorcollection.ir](https://shop.hoorcollection.ir)
 
 ## چه چیزهایی می‌سازم
-- **[دفتر استاد](https://github.com/pooryakamrani-sketch/Daftar-ostand):** برنامه‌ی وب موبایلی فارسی‌محور و آفلاین‌محور برای معلمان خصوصی (جلسه‌ها، شاگردان، شهریه، پنل مدیر با ثبت‌نام از طریق QR). با PHP و SQLite/JSON، همراه با تست‌های PHP و jsdom.
+- **[دفتر استاد](https://github.com/pooryakamrani-sketch/Daftar-ostand):** برنامه‌ی وب موبایلی فارسی‌محور و آفلاین‌محور برای معلمان خصوصی (جلسه‌ها، شاگردان، شهریه، پنل مدیر با ثبت‌نام از طریق QR). با PHP و SQLite/JSON، همراه با تست‌های PHP و jsdom. **[نسخهٔ نمایشی زنده](https://demo.hoorartco.ir)** (داده‌های نمونه، فقط روی مرورگر شما می‌ماند).
 - **اتوماسیون کسب‌وکار** برای کارگاه خودم: دستیار فروش و ربات سفارش (با n8n)، گزارش‌ها و ابزارهای قیمت‌گذاری.
 - **سیستم حسابداری صندوق‌های قرض‌الحسنه:** تطبیق حساب‌ها و صورت‌حساب اعضا، مطابق قوانین خاص هر صندوق.
 
